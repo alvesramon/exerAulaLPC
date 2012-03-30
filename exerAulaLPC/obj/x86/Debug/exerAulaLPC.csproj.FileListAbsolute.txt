@@ -1,0 +1,9 @@
+C:\Users\Ramon Alves\Desktop\Projetos CSharp\exerAulaLPC\exerAulaLPC\bin\Debug\exerAulaLPC.exe
+C:\Users\Ramon Alves\Desktop\Projetos CSharp\exerAulaLPC\exerAulaLPC\bin\Debug\exerAulaLPC.pdb
+C:\Users\Ramon Alves\Desktop\Projetos CSharp\exerAulaLPC\exerAulaLPC\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ramon Alves\Desktop\Projetos CSharp\exerAulaLPC\exerAulaLPC\obj\x86\Debug\exerAulaLPC.formularioPrincial.resources
+C:\Users\Ramon Alves\Desktop\Projetos CSharp\exerAulaLPC\exerAulaLPC\obj\x86\Debug\exerAulaLPC.Properties.Resources.resources
+C:\Users\Ramon Alves\Desktop\Projetos CSharp\exerAulaLPC\exerAulaLPC\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ramon Alves\Desktop\Projetos CSharp\exerAulaLPC\exerAulaLPC\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ramon Alves\Desktop\Projetos CSharp\exerAulaLPC\exerAulaLPC\obj\x86\Debug\exerAulaLPC.exe
+C:\Users\Ramon Alves\Desktop\Projetos CSharp\exerAulaLPC\exerAulaLPC\obj\x86\Debug\exerAulaLPC.pdb
